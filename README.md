@@ -1,16 +1,9 @@
 # business_card
 
-A new Flutter project.
+This flutter app replaces a business card.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="374" alt="business_card_android" src="https://user-images.githubusercontent.com/18585836/219888181-1ae39d04-d35a-421c-ae2f-c221011a204a.png">
+<img width="359" alt="business card_ios" src="https://user-images.githubusercontent.com/18585836/219888194-b7670ee2-669b-45ee-95c7-86b09694b4aa.png">
